@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade_Pattern", "..\Facade_Pattern\Facade_Pattern.csproj", "{32AE7D3E-7158-4C48-87D4-569B7A1BF19C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade_Pattern", "Facade_Pattern\Facade_Pattern.csproj", "{A9020F54-FA73-416C-8A2F-D68132D02AE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{32AE7D3E-7158-4C48-87D4-569B7A1BF19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{32AE7D3E-7158-4C48-87D4-569B7A1BF19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{32AE7D3E-7158-4C48-87D4-569B7A1BF19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{32AE7D3E-7158-4C48-87D4-569B7A1BF19C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9020F54-FA73-416C-8A2F-D68132D02AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9020F54-FA73-416C-8A2F-D68132D02AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9020F54-FA73-416C-8A2F-D68132D02AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9020F54-FA73-416C-8A2F-D68132D02AE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
